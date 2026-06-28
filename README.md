@@ -1,2 +1,3 @@
-# social-3-economy-finance-market-quiz
-Static quiz site for middle school social studies economy and finance market quiz
+# 중3 사회 실전 대비 40문항
+
+GitHub Pages 공유용 정적 사이트입니다.
